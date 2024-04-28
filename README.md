@@ -1,1 +1,1 @@
-# loopWhile.cpp
+# arrayLoopWhile.cpp
